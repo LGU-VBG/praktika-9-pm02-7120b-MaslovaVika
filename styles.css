@@ -13,11 +13,11 @@
   background: #909497;
   text-align: right;
   padding: 10px;
+  position: relative;
   color: white;
   font-size: 16pt;
   overflow: hidden;
   padding-top: 6px;
-  position: relative;
   border-radius: 7px;
 }
 .six {
