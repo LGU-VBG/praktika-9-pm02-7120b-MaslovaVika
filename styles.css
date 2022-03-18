@@ -1,0 +1,46 @@
+.level:before {
+  content: "9691";
+  position: absolute;
+  background: #a3c741;
+  padding: 17px;
+  text-align: center;
+  width: 150px;
+  left: 0px;
+  top: 0px;
+}
+.level {
+  width: 60%;
+  background: #909497;
+  text-align: right;
+  padding: 10px;
+  position: relative;
+  color: white;
+  font-size: 16pt;
+  overflow: hidden;
+  padding-top: 6px;
+  border-radius: 7px;
+}
+.six {
+  margin-right: 17px;
+  margin-left: 17px;
+}
+.minus {
+  background: #b63636;
+  font-size: 20pt;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 7px;
+  font-weight: bold;
+}
+.plus {
+  background: #9dc538;
+  font-size: 20pt;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 7px;
+  font-weight: bold;
+}
